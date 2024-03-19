@@ -1,6 +1,6 @@
 <h1 align="center">Hey there 👋, I'm viralatadr!</h1>
 <p align="center">
-    <i>Self proclaimed</i> <b>CEO of labpcsupport</b> <i>and</i> <b>Avid Python & C Enjoyer</b>
+    <i>Self proclaimed</i> <b>CEO of labpcsupport</b> <i>and</i> <b>Avid Sysadmin Enjoyer</b>
 <br />
 <br />
   
