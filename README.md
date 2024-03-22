@@ -15,10 +15,9 @@ class AboutMe():
         self.occupation = "SysAdmin"
         self.birthday = date(day=25, month=2, year=1993)
         self.age = (date.today()-self.birthday).days/365  # 31 y/o
-        self.hobbies = ["Coding", "Gaming", "Music", "YouTube"]
+        self.hobbies = ["cybersecurity", "Gaming", "YouTube"]
         self.interests = ["Programming", "Linux", "Open Source"]
-        self.hotel = "Trivago"
-        self.breed = "Different"
+       
 
 if __name__ == "__main__":
     me = AboutMe()
