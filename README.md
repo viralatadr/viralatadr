@@ -22,6 +22,4 @@ class AboutMe():
 if __name__ == "__main__":
     me = AboutMe()
 ```
-<a href="https://wigle.net">
-<img border="0" src="https://wigle.net/bi/ZlMLpqdVItbCm+dDwQUEhg.png">
-</a>
+
